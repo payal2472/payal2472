@@ -3,6 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payal2472&label=Profile%20views&color=0e75b6&style=flat" alt="payal2472" /> </p>
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+
+
 - 🔭 I’m currently working on **web development**
 
 <h3 align="left">Connect with me:</h3>
@@ -15,6 +31,24 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  </a>
+</p>
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,nodejs,express" />
+  </a>
+</p>
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   </a>
 </p>
 
