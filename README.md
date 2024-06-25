@@ -54,3 +54,13 @@
 
 
 ![payal2472's Stats](https://github-readme-stats.vercel.app/api?username=payal2472&theme=gotham&show_icons=true&hide_border=false&count_private=true)![payal2472's Streak](https://github-readme-streak-stats.herokuapp.com/?user=payal2472&theme=gotham&hide_border=false)
+<p align="center">
+ <img width="1000" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+
+<!--
+### How to reach me :mailbox:
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
+--> 
+
